@@ -1,75 +1,63 @@
 
-1990
+2000
 ------
 
-Native Americans were asked to specify tribe. Separate question for Hispanic origin. 
+For 2000 and 2010, enumerator followup interview instructions are provided. 
 
-Races noted: White, Black/Negro, Chinese, Japanese, Asian Indian, Indian (Amer.), Filipino, Vietnamese, Korean, Hawaiian, Guamanian, Samoan, Eskimo, Aleut, Other
+Native Americans were asked to specify tribe. Separate question for Hispanic origin. Respondents can check multiple options. 
+
+Races noted: White, Black/African Am./Negro, Chinese, Japanese, Asian Indian, American Indian/Alaska Native, Filipino, Vietnamese, Korean, Native Hawaiian, Guamanian/Chamorro, Samoan, Other
 
 ------
 
-**4.** **Race**
-
-Fill ONE circle for the race that the person considers himself/herself to be.
-
-If **Indian (Amer.)**, print the name of the enrolled or principal tribe.
-
-If **Other Asian or Pacific Islander (API),** print one group, for example: Hmong, Fijian, Laotian, Thai, Tongan, Pakistani, Cambodian, and so on.
-
-If **Other race**, print race.
-
-- White
-- Black or Negro
-- Indian (Amer.) (Print the name of the enrolled or principal tribe.)
-- Eskimo
-- Aleut
-- Other race (Print race)
-
-*Asian or Pacific Islander (API)*
-
-- Chinese
-- Japanese
-- Filipino
-- Asian Indian
-- Hawaiian
-- Samoan
-- Korean
-- Guamanian
-- Vietnamese
-- Other API
-
-
-
-**7. Is this person of Spanish/Hispanic origin?**
-
-Fill ONE circle for each person.
-
-If **Yes, other Spanish/Hispanic**, print one group.
-
-- No (not Spanish/Hispanic)
-- Yes, Mexican, Mexican-Am., Chicano
+5. **Are you Spanish/Hispanic/Latino?** _Mark the **“No”** box if **not** Spanish/Hispanic/Latino._
+- **No,** not Spanish/Hispanic/Latino
+- Yes, Mexican, Mexican Am., Chicano
 - Yes, Puerto Rican
 - Yes, Cuban
-- Yes, other Spanish/Hispanic (Print one group, for example: Argentinean, Colombian, Dominican, Nicaraguan, Salvadoran, Spaniard, and so on.)
+- Yes, other Spanish/Hispanic/Latino — _Print group._
+
+6. **What is your race? _Mark one or more races_** _to indicate what you consider yourself to be._
+- White
+- Black, African Am., or Negro
+- American Indian or Alaska Native — _Print name of enrolled or principal tribe._
+- Asian Indian
+- Chinese
+- Filipino
+- Japanese
+- Korean
+- Vietnamese
+- Other Asian — _Print race._
+- Native Hawaiian
+- Guamanian or Chamorro
+- Samoan
+- Other Pacific Islander — _Print race._
+- Some other race — _Print race._
 ------
-4. Fill ONE circle for the race each person considers himself/herself to be.
+**_Question 5—Mexican, Puerto Rican, Cuban or Hispanic, or Other Latino Origin_**
 
-If you fill the **Indian (Amer.)** circle, print the name of the tribe or tribes in which the person is enrolled. If the person is not enrolled in a tribe, print the name of the principal tribe(s).
+Question 5 asks if any household member is Mexican, Puerto Rican, Cuban, or of another Hispanic or Latino group.
 
-If you fill the **Other API** circle [under **Asian or Pacific Islander (API)**], **only** print the name of the group to which the person belongs. For example, the **Other API** category includes persons who identify as Burmese, Fijian, Hmong, Indonesian, Laotian, Bangladeshi, Pakistani, Tongan, Thai, Cambodian, Sri Lankan, and so on.
+- Show Card B, which lists various Hispanic/Latino ethnic origins.
+- Read question 5: Are any of the persons that I have listed Mexican, Puerto Rican, Cuban, or of another Hispanic or Latino group? Follow the directions in this table according to the respondent’s answer for each person:
+	- If yes… Mark the appropriate Yes box under the question. If “Yes, other Spanish/ Hispanic/ Latino” ask: What is this group? Print the group in the space provided. Go to Question 6.
+	- If no… Mark the No box under the question for each person. Go to Question 6.
 
-If you fill the **Other race** circle, be sure to print the name of the race.
+**NOTE: You must ask the respondent question 5 for every household member. Different household members may have different origins. For example, some, but not all, household members may be Mexican, Puerto Rican, Cuban, or of another Hispanic or Latino group. If certain household members are not of one of these groups, mark the box next to the description “No, not Spanish/ Hispanic/ Latino.” If the respondent refuses to give a household member’s Spanish/Hispanic/Latino origin, write “Refused #5” in the left column (see Illustration 6.5 on the next page).**
 
-If the person considers himself/herself to be **White, Black or Negro, Eskino or Aleut, fill one circle only. Please do not print the race in the boxes.**
+**_Question 6 – Race_**
 
-The **Black or Negro** category also includes persons who identify as African-American, Afro-American, Haitian, Jamaican, West Indian, Nigerian, and so on.
+Question 6 asks for each person’s race. Even though a person identifies himself or herself as Hispanic, you must always ask the race question. A person of Hispanic origin may be of any race. It is important that you show the respondent both cards B and C and ask both questions 5 and 6.
 
-**All** persons, regardless of citizenship status, should answer this question.
+Show the respondent Card C, which lists the race categories.
 
-7. A person is of Spanish/Hispanic origin if the person’s origin (ancestry) is Mexican, Mexican-Am., Chicano, Puerto Rican, Cuban, Argentinean, Colombian, Costa Rican, Dominican, Ecuadoran, Guatemalan, Honduran, Nicaraguan, Peruvian, Salvadoran, from other Spanish-speaking countries of the Caribbean or Central and South America, or from Spain.
+Read question 6: **_Now choose one or more races for each person. Which race or races does each person consider himself/herself to be?_**
 
-If you fill the **Yes, other Spanish/Hispanic** circle, print one group.
+- Mark the box next to the race or races that the respondent identifies for each person. The respondent may select one or more races.
+- If the person is an American Indian or Alaska Native, ask **_What is the name of the person’s enrolled or principal tribe?_** Print the tribe name in the space provided.
+- If the person is other Asian, other Pacific Islander, or Some other race, ask, **_What is this race?_** Print the race in the space provided.
+- If the person says he or she is a race not listed on the questionnaire, such as “American,” mark the “Some other race” box and write “American” in the space provided.
 
-A person who is not of Spanish/Hispanic origin should answer this question by filling the **No (not Spanish/Hispanic)** circle. Note that the term **“Mexican-Am.”** refers only to persons of Mexican origin or ancestry.
+- If the person refuses or doesn’t know, leave blank and make a note in the margin.
 
-**All** persons, regardless of citizenship status, should answer this question.
+**NOTE: You must ask the respondent both the Hispanic origin question (question 5) and the race question (question 6).**
