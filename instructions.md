@@ -1,36 +1,42 @@
-
-1970
+1980
 ------
 
-Native Americans were asked to specify tribe. 
+Native Americans were asked to specify tribe. Separate question for Hispanic origin. 
 
-Question 13b was given to 5% of respondents. 
-
-Races noted: White, Negro/Black, Chinese, Japanese, Indian (Amer.), Filipino, Korean, Hawaiian, Other
+Races noted: White, Black/Negro, Chinese, Japanese, Asian Indian, Indian (Amer.), Filipino, Vietnamese, Korean, Hawaiian, Guamanian, Samoan, Eskimo, Aleut, Other
 
 ------
+**4. Is this person –**
 
-**4. COLOR OR RACE**
 _Fill one circle._
-_If “Indian (American),” also give tribe._
-_If “Other,” also give race._
 
 - White
-- Negro or Black
-- Indian (Amer.) _Print tribe_
-- Chinese
+- Black or Negro
 - Japanese
+- Chinese
 - Filipino
-- Hawaiian
 - Korean
-- Other – _Print race_
+- Vietnamese
+- Indian (Amer.) _Print tribe_
+- Asian Indian
+- Hawaiian
+- Guamanian
+- Samoan
+- Eskimo
+- Aleut
+- Other – _Specify_
 
-**13b. Is this person’s origin or descent-**
-- Mexican
-- Puerto Rican
-- Cuban
-- Central or South American
-- Other Spanish
-- No, none of these
+**7. Is this person of Spanish/Hispanic origin or descent?**
+_Fill one circle._
+
+- No (not Spanish/Hispanic)
+- Yes, Mexican, Mexican-Amer., Chicano
+- Yes, Puerto Rican
+- Yes, Cuban
+- Yes, other Spanish/Hispanic
 ------
-For item 4 (color or race), it was assumed that the respondent’s relatives living in the unit were also of the same race unless the census taker learned otherwise. The enumerator’s manual included a long list of possible written-in entries and how they were to be classified: For example, ‘‘Chicano,’’ ‘‘LaRaza,’’ ‘‘Mexican American,’’ ‘‘Moslem,’’ or ‘‘Brown’’ were to be changed to White, while ‘‘Brown (Negro)’’ would be considered as Negro or Black for census purposes.
+4. Fill the circle for the category with which the person most closely identifies. If you fill the **Indian (American)** or **Other** circle, be sure to print the name of the specific Indian tribe or specific group.
+
+......
+
+7.  A person is of Spanish/Hispanic origin or descent if the person _identifies_ his or her ancestry with one of the listed groups, that is, Mexican, Puerto Rican, etc. Origin or descent (ancestry) may be viewed as the nationality group, the lineage, or country in which the person or the person’s parents or ancestors were born.
