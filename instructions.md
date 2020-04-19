@@ -1,11 +1,11 @@
 
-1860
+1870
 ------
 
-Races noted: White, Black, Mulatto, Slave
+1870 was the first census after the Civil War. Chinese refers to all East Asians, Indian refers to Native Americans. 
+
+Races noted: White, Black, Mulatto, Chinese, Indian
 
 ------
 
-1.6 Under heading 6, entitled “_Color,”_ in all cases where the person is white leave the space blank; in all cases where the person is black without admixture insert the letter “B;” if a mulatto, or of mixed blood, write “M;” if an Indian, write “Ind.” It is very desirable to have these directions carefully observed.
-
-2.5. _Color.—_ Under heading 5, entitled “_Color,_” insert, in all cases where the slave is black, the letter “B.” When he or she is a mulatto insert “M.” You are to note the color of every slave. Those who are in any degree of mixed blood are to be termed mulatto, “M.”
+_Color.—_ It must not be assumed that, where nothing is written in this column. "White" is to be understood. The column is always to be filled. Be particularly careful in reporting the class Mulatto. The word is here generic, and includes quadroons, octoroons, and all persons having any perceptible trace of African blood. Important scientific results depend upon the correct determination of this class in Schedules 1 and 2.
