@@ -1,20 +1,9 @@
 
-1790-1810
+1820
 ------
 
-Until 1830, the census did not standardize questionnaires or instructions to U.S. Marshals. Below is an excerpt from the original Census Act of 1789 codifying the race question.
-
-In 1800 and 1810, Free Whites were recorded with age included, but other free persons (particularly blacks) were recorded as one group. 
-
-Races noted: White, Other Free Persons, Slave
+Races noted: White, Free Colored, Slave
 
 ------
 
-> ...That the marshals of the several districts of the United States
-> shall be, and they are hereby authorized and required to cause the
-> number of the inhabitants within their respective districts to be
-> taken; omitting in such enumeration Indians not taxed, and
-> distinguishing free persons, including those bound to service for a
-> term of years, from all others; distinguishing also the sexes and
-> colours of free persons, and the free males of sixteen years and
-> upwards from those under that age...
+The execution of the fifth section of the act requires the further interrogatories, whether any person, whose usual abode was in the family on the first Monday of August, 1820, be absent therefrom at the time of the inquiry made: and, if so, the sex, age, color, and condition, of such person are to be asked, and marked in the proper column, in the return of the family
