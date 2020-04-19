@@ -1,11 +1,12 @@
-
-1830/40
+1850
 ------
 
-1830 was the first year with standardized "schedules", or questions, to be asked of respondents by the marshals. The instructions were generally the same from 1830 to 1840. 
+1850 marked the first year with centralized instructions for U.S. Marshals. 
 
-Races noted: White, Free Colored, Slave
+Races noted: White, Black, Mulatto, Slave
 
 ------
 
-The execution of the fifth section of the act requires the further interrogatories, whether any person, whose usual abode was in the family on the 1st day of June, 1830, be absent therefrom at the time of making the inquiry, and if so, the sex, age, color, and condition, are to be asked and marked in the proper column, in the return of the family.
+1.6. Under heading 6, entitled ‘‘_Color,_’’ in all cases where the person is white, leave the space blank; in all cases where the person is black, insert the letter B; if mulatto, insert M. It is very desirable that these particulars be carefully regarded.
+
+2.5. Under heading 5, entitled ‘‘_Color,_’’ insert in all cases, when the slave is black, the letter B; when he or she is mulatto, insert M. The color of all slaves should be noted.
