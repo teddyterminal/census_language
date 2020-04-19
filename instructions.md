@@ -1,11 +1,13 @@
-1880
+
+1890
 ------
 
-1880 was the first census in the hands of appointed enumerators, as opposed to U.S. Marshals. Chinese refers to all East Asians, Indian refers to Native Americans. 
+Indian refers to Native Americans. 
 
-Races noted: White, Black, Mulatto, Chinese, Indian
+Races noted: White, Black, Mulatto, Quadroon, Octoroon, Chinese, Japanese, Indian
 
 ------
 
+4. _Whether white, black, mulatto, quadroon, octoroon, Chinese, Japanese, or Indian._
 
-_Color.—_ It must not be assumed that, where nothing is written in this column, "White" is to be understood. The column is always to be filled. Be particularly careful in reporting the class _Mulatto._ The word is here generic, and includes quadroons, octoroons, and all persons having any perceptible trace of African blood. Important scientific results depend upon the correct determination of this class in schedules 1 and 5.
+Write _white, black, mulatto, quadroon, octoroon, Chinese, Japanese,_ or _Indian,_ according to the color or race of the person enumerated. Be particularly careful to distinguish between blacks, mulattoes, quadroons, and octoroons. The word ‘‘black’’ should be used to describe those persons who have three-fourths or more black blood; ‘‘mulatto,’’ those persons who have from three-eighths to five-eighths black blood; ‘‘quadroon,’’ those persons who have one-fourth black blood; and ‘‘octoroon,’’ those persons who have one-eighth or any trace of black blood.
