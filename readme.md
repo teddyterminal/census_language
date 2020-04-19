@@ -1,0 +1,9 @@
+## Census Language on Race, 1790-2020
+
+The above file, instructions.txt, is a compilation of the questions and instructions asked in the decennial United States Census on the issue of race (or color in earlier censuses). By looking through the commit history of this file, the viewer will be able to observe how the language around race, and indeed the American understanding of racial diversity, has changed drastically over time. Each decade's instructions and questions are also available as its own separate .md file. 
+
+Prior to 1960, U.S. Marshals and enumerators were asked to travel to every residence in the country to gather this demographic data. From 1960 onward, increasing fractions of the population have recieved mail copies of the census to complete. The very first marshals had very few instructions given to them to complete the census; the first set of standardized questions were not published until 1830, and the first set of standardized and detailed instructions until 1850. 
+
+Many of the terms for racial groups in history are considered deeply offensive in the present day. These terms appear in the file and are left uncensored because a description of how racial questions in the census have evolved would be incomplete without a reckoning of that racist history. 
+
+In doing this research I also came upon 40 years of instructions pertaining to census data relating to people with disabilities. These were unique in their explanations and detail and for their gaudily inappropriate terminology for those individuals, particularly relating to mental health. These .md files have also been included, uncensored, to highlight the Census Bureau's century-long desire to maintain at least basic statistics about disabilities before finally abandoning asking those questions altogether in 1940. 
